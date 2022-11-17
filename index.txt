@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modificacion en la rama 1
+=======
+Modificacion en la rama 1.1
+>>>>>>> rama1.1EDD
